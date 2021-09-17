@@ -1,4 +1,4 @@
-# esx_indicators
+# Indicators for FiveM
 Indicators for FiveM esx Server - Vilkut FiveM serverille
 
 🛠 Requirements
